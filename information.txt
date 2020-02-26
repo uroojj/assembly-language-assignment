@@ -1,0 +1,5 @@
+counts Strings through filing 
+input: taking from file 
+output: count the number of words in the file 
+
+location of file :  "C:\Users\syeda\Desktop\TESTING.txt"
